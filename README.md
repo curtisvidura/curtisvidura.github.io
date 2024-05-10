@@ -1,2 +1,6 @@
-# curtisvidura.github.io
-My Website
+# Interactive 
+
+
+## Education
+
+## Contact
