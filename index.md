@@ -1,22 +1,10 @@
 This is a work in progress, Started May 10, 2024 - Continuing
 
 
+### Projects in progress
+[Moiré Patterns](./physics/Moire.html)
 
-# Projects
-## Physics demonstrations
-
-### Quantum Spin Liquids 
-
-### Quantum Error Correcting Codes 
-[Kitaev Surface Codes](./physics/toric-code.html).
-
-
-## Notes
-
-
-## Writing
-
-## Picture Gallery
+[Kitaev Surface Codes](./physics/toric-code.html)
 
 
 ### About
@@ -31,4 +19,3 @@ Email: curtisvidura@gmail.com
 ```
 Thanks for visiting!
 ```
-
