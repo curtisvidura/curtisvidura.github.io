@@ -5,7 +5,7 @@ This is a work in progress, Started May 10, 2024 - Continuing
 [Moiré Patterns](./physics/Moire.html)
 
 [Kitaev Surface Codes](./physics/toric-code.html)
-
+[PyScript Testing](./PyScriptTest.html)
 
 ### About
 #### Education
