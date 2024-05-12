@@ -4,7 +4,7 @@ This is a work in progress, Started May 10, 2024 - Continuing
 ### Projects in progress
 [PyScript Testing](./PyScriptTest.html)
 
-[Moiré Patterns](./physics/Moire.html)
+[Moiré Patterns](./Moire.html)
 
 [Kitaev Surface Codes](./physics/toric-code.html)
 
