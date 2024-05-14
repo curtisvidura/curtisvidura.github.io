@@ -6,7 +6,7 @@ This is a work in progress, Started May 10, 2024 - Continuing
 
 [Moiré Patterns](./Moire.html)
 
-[Kitaev Surface Codes](./physics/toric-code.html)
+[Kitaev Surface Codes](./Toric.html)
 
 ### About
 #### Education
