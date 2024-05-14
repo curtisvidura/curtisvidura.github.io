@@ -30,3 +30,5 @@ im = ax.imshow(data.T,
 ax.set_xlabel('x (nm)')
 ax.set_ylabel('y (nm)')
 ax.set_title(f'Graphene-hBN \n $\\theta = {theta:.2f}^\\circ, \\kappa = {kappa:.3f}, \\psi = {psi:.2f}^\\circ$');
+
+print("End of Python code")
