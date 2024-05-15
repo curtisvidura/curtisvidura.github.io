@@ -16,6 +16,7 @@ This is a work in progress, Started May 10, 2024 - Continuing
 #### Contact
 Email: curtisvidura@gmail.com
 
+<img src="/figures/film/000030310027.jpg" alt="picture" width="500" height="600">
 
 ```
 Thanks for visiting!
