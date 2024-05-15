@@ -13,10 +13,33 @@
   </head>
   <body>
     <h1> This is a lattice: </h1>
+    <py-script> src="/PythonFiles/Hello.py</py-script>
     <py-script> src="/PythonFiles/Lattice.py</py-script>
     
-    <h2> This is a moire lattice </h2>
+    <h2> 
+      <py-script> 
+        import matplotlib.pyplot as plt
+        import numpy as np
+        
+        x = np.linspace(0, 2 * np.pi, 1000)
+        y = np.sin(x)
+        
+        plt.figure(figsize=(10, 5))
+        plt.plot(x, y, label='Sine Wave', color='blue')
+
+        plt.title('Sine Wave')
+        plt.xlabel('x')
+        plt.ylabel('sin(x)')
+
+        plt.legend()
+        plt.show()
+      </py-script>
+    </h2>
+
+    <h3> This is a moire lattice </h2>
     <py-script src="/PythonFiles/MoireDemo.py"></py-script>
+
+
   </body>
   
 </html>
