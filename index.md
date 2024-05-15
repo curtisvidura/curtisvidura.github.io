@@ -6,6 +6,8 @@ This is a work in progress, Started May 10, 2024 - Continuing
 
 [Moiré Patterns](./Moire.html)
 
+[Braids and Knots](./Knots.html)
+
 [Kitaev Surface Codes](./Toric.html)
 
 ### About
