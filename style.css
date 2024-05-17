@@ -1,3 +1,11 @@
+
+.gray-div {
+  background-color:gainsboro;
+  width: 500px;
+  padding: 25px;
+}
+
+
 body {
   font-family: 'Montserrat', sans-serif;
 }
