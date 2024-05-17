@@ -1,7 +1,10 @@
 
 .gray-div {
   background-color:gainsboro;
-  padding: 300px;
+  margin-top: 0%;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 25px;
 }
 
 
