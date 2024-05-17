@@ -28,9 +28,9 @@
       <h2 id="Braids"> Braids </h2>
       <a href="https://en.wikipedia.org/wiki/Braid_group">Wikipedia article on the Braid Group</a>
       <p style="font: size 26px" style="font-weight: lighter"> A braid can be formed by exchanging the endpoints of strings. Take for example a braid with i = 5 points. 
-        We can represent an exchange with the (i-1) number of operations, <strong> σ<sub>1</sub>, σ<sub>2</sub>, σ<sub>3</sub>, 
-        σ<sub>4</sub> </strong>. σ<sub>i</sub> exchanges the <em>i</em> point with the <em>i+1</em> point. The inverse of an exchange is given by 
-        <strong>σ<sup>-1</sup><sub>i</sub></strong>.
+        We can represent an exchange with (i-1) number of operations, <strong> σ<sub>1</sub>, σ<sub>2</sub>, σ<sub>3</sub>, 
+        σ<sub>4</sub> </strong>. σ<sub>i</sub> exchanges the <em>i</em> point with the <em>i+1</em> point. The inverse of an exchange
+        <strong>σ<sub>i</sub><sup>-1</sup></strong> is just exchanging it the opposite way.
 
       <figure>
         <img src="/figures/knots/braidingB5.png" alt="B5 Braiding">
@@ -38,18 +38,38 @@
       </figure>
       
       <p> 
+      Braiding has the same properties as a group!
         <ol>
           <li>The Indentity is the braid with straight lines (no crossings) </li>
           <li>Any combination of braidings is also a braiding</li>
           <li>For any braiding, the inverse can be found by flipping the picture</li>
         </ol>
+      
+      One might want to compare the Braid Group to the Permutation Group <Strong>S<sub>n</sub></Strong>, since the Braid Group
+      also involves switching points around. Indeed there is a surjective homomorphism <strong>B<sub>n</sub>→S<sub>n</sub></strong>
+      however, the Braid Group is infinite while <Strong>S<sub>n</sub></Strong> is not. 
+
+      The Braid group will have some extra conditions, In the case of <strong><sub>4</sub></strong>
+        <ol>
+          <li> <strong>σ<sub>1</sub> </li>
+        </ol>
+      
+  
       </p>
+
 
       <h2 id="Knots"> From Braids to Knots </h2>
       <p>
-        A <b>link</b> is a can be formed from taking the <i>closure</i> of a braid. This is drawn by connecting opposite dots without
-        without crossing them. 
+        A <b>link</b> is a collection of <b>knots</b> and they can be formed from taking the <i>closure</i> of a braid. This is done
+        by connecting opposite ends of the strings by lines that do not intersect like such: 
       </p>
+
+      <figure>
+        <img src="/figures/knots/BraidClosure.png" alt="Closure">
+        <figcaption>Fig.1 - Taking the closure of a Braid</figcaption>
+      </figure>
+
+
     </div>
 
   </div>
