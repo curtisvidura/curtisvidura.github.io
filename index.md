@@ -2,11 +2,11 @@ This is a work in progress, Started May 10, 2024 - Continuing
 
 
 ### Projects in progress
+[Braids and Knots](./Knots.html)
+
 [PyScript Testing](./PyScriptTest.html)
 
 [Moiré Patterns](./Moire.html)
-
-[Braids and Knots](./Knots.html)
 
 [Kitaev Surface Codes](./Toric.html)
 
