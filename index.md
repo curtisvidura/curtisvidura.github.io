@@ -5,26 +5,26 @@ Started May 2024 - Present
 ### Projects in progress
 
 #### Testing Code / Simulations etc.. 
-[PyScript Testing](./PyScriptTest.html)
+-[PyScript Testing](./PyScriptTest.html)
 
 
-#### Graphene and Van der Waals Heterostructures
-Graphene
-2D Heterostructures 
-[Moiré Patterns](./Moire.html)
+##### Graphene and Van der Waals Heterostructures
+-Graphene
+-2D Heterostructures 
+-[Moiré Patterns](./Moire.html)
 
 
-#### Topological Materials
-Quantum Hall Effect
-Berry Phyiscs
-Topological Insulators
+##### Topological Materials
+-Quantum Hall Effect
+-Berry Phyiscs
+-Topological Insulators
 
-#### Topological Quantum Computation
+##### Topological Quantum Computation
 
-[Braids and Knots](./Knots.html)
-[Kitaev Surface Codes](./Toric.html)
-Classical and Quantum Computation
-Topological Quantum Computation
+-[Braids and Knots](./Knots.html)
+-[Kitaev Surface Codes](./Toric.html)
+-Classical and Quantum Computation
+-Topological Quantum Computation
 
 
 ### About
