@@ -26,9 +26,8 @@ Started May 2024 - Present
 -Classical and Quantum Computation
 -Topological Quantum Computation
 
-```
+
 This is some Latex: $$ \sigma_{xy} = - \frac{e^2}{h} \int_{T_{\psi}^2} frac{d^2 \theta}{2pi} F_{xy} $$
-```
 
 
 ### About
