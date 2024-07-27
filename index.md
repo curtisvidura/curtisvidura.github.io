@@ -35,11 +35,13 @@ This is some Latex: $\sigma_{xy} = - \frac{e^2}{h} \int_{T_{\psi}^2} frac{d^2 \t
 *   BSc Math and Physics University of Toronto
 *   MSc Physics Chulalongkorn University 
 
+
 #### Contact
 Email: curtisvidura@gmail.com
+[Photo Gallery](./Gallery.html)
+[<img src="/figures/film/thailand/000030310027.jpg" alt="cat" >](./Gallery.html)
+
 
 ```
 Thanks for visiting!
 ```
-
-[<img src="/figures/film/thailand/000030310027.jpg" alt="cat" >](./Gallery.html)
