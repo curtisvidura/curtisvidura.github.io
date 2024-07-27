@@ -42,4 +42,4 @@ Email: curtisvidura@gmail.com
 Thanks for visiting!
 ```
 
-<img src="/figures/film/000030310027.jpg" alt="cat" >
+[<img src="/figures/film/thailand/000030310027.jpg" alt="cat" >](./Gallery.html)
