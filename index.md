@@ -26,22 +26,15 @@ Started May 2024 - Present
 - Classical and Quantum Computation
 - Topological Quantum Computation
 
-
-This is some Latex: $\sigma_{xy} = - \frac{e^2}{h} \int_{T_{\psi}^2} frac{d^2 \theta}{2pi} F_{xy}$
-
-
-### About
-#### Education
+## About
 *   BSc Math and Physics University of Toronto
-*   MSc Physics Chulalongkorn University 
+*   MSc Physics Chulalongkorn University (in progress)
 
-
-#### Contact
-Email: curtisvidura@gmail.com
 [Photo Gallery](./Gallery.html)
-[<img src="/figures/film/thailand/000030310027.jpg" alt="cat" >](./Gallery.html)
+[<img src="/figures/film/thailand/000030310027.jpg" alt="cat" >](./Gallery)
 
 
 ```
 Thanks for visiting!
+Email: curtisvidura@gmail.com
 ```
