@@ -5,6 +5,8 @@ These resources were recommended to me to start learning about [graphene](https:
 the [quantum hall effect](https://arxiv.org/pdf/0909.1998), and [quantum transport](https://arxiv.org/pdf/cond-mat/0412664). Eventually I hope to understand 
 this [paper](https://arxiv.org/pdf/0707.1889) about non-abelian annyons and this paper by [Kitaev](https://arxiv.org/pdf/quant-ph/9707021).
 
+[Here](./resources.md) is a more compresensive list of resources I am collecting. 
+
 #### Education
 *   BSc Math and Physics University of Toronto
 *   MSc Physics Chulalongkorn University (in progress)
