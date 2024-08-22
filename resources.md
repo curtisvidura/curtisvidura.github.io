@@ -9,6 +9,8 @@ Best introductions:
 
 * Toplological Phases of Matter (2021) by Roderich Moessner and Joel E. Moore
 
+* [Topological Insulators and Topological Superconductors](https://poboiko.bitbucket.io/qm/fall16/seminar-6-adiabaticheskoe-priblizhenie/topological_insulators.pdf) by Andrei Bernevig
+
 * Notes from ETH Zurich Notes on the Quantum hall effect [chapter 1](https://ethz.ch/content/dam/ethz/special-interest/phys/theoretical-physics/cmtm-dam/documents/tqn/01.pdf) as well as some [notes](https://web.math.princeton.edu/~js129/PDFs/Top_SSP_Lecture_Notes.pdf) and a [masters thesis](https://web.math.princeton.edu/~js129/PDFs/MSC_Thesis.pdf) from J.shapiro
 
 
