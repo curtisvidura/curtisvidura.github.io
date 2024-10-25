@@ -15,7 +15,7 @@ this [paper](https://arxiv.org/pdf/0707.1889) about non-abelian annyons and this
 
 This is where I will eventually put some python projects and stuff 
 
-[<img src="/figures/film/thailand/000030310027.jpg" alt="cat" >](https://curtisvidura.github.io/galleryNew)
+[<img src="/figures/film/cat.jpg" alt="cat" >](https://curtisvidura.github.io/galleryNew)
 
 
 ```
