@@ -51,22 +51,67 @@ nav ul li a {
     margin-top: 20px;
 }
 
+/* --- Modern Masonry Gallery Category Styles --- */
+.gallery-category {
+    column-count: 4;
+    column-gap: 20px;
+    margin-bottom: 40px;
+}
+
+@media (max-width: 1200px) {
+    .gallery-category {
+        column-count: 3;
+    }
+}
+@media (max-width: 900px) {
+    .gallery-category {
+        column-count: 2;
+    }
+}
+@media (max-width: 600px) {
+    .gallery-category {
+        column-count: 1;
+        column-gap: 10px;
+    }
+}
+
 .thumb {
-    background-color: #f0f0f0;
-    border: 1px solid #ccc;
-    width: calc(33.333% - 20px);
-    height: 200px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    background: none;
+    border-radius: 0;
+    box-shadow: none;
+    border: none;
     overflow: hidden;
-    position: relative;
+    transition: box-shadow 0.2s, transform 0.2s;
+    display: block;
+    margin-bottom: 20px;
+    min-height: unset;
+    height: auto;
+    padding: 0;
 }
 
 .thumb img {
     width: 100%;
     height: auto;
-    object-fit: cover;
+    object-fit: contain;
+    transition: transform 0.2s;
+    border-radius: 8px;
+    display: block;
+}
+
+.thumb:hover img {
+    transform: scale(1.04);
+}
+
+#thumbList h2 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #222;
+    border-left: 4px solid #333;
+    padding-left: 12px;
+    break-after: column;
 }
 
 /* Footer Styles */
@@ -83,18 +128,76 @@ footer a {
 }
 
 /* Responsive Styles */
-@media (max-width: 768px) {
-    #thumbList {
-        flex-direction: column;
+@media (max-width: 900px) {
+    .gallery-category {
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
     }
+    .thumb img {
+        height: 150px;
+    }
+}
 
-    .thumb {
-        width: 100%;
-        height: 300px;
+@media (max-width: 600px) {
+    #mainContent {
+        padding: 8px;
     }
+    .gallery-category {
+        grid-template-columns: 1fr;
+        gap: 12px;
+    }
+    #thumbList h2 {
+        font-size: 1.3rem;
+        margin-top: 24px;
+        margin-bottom: 10px;
+        padding-left: 8px;
+    }
+    .thumb img {
+        height: 120px;
+    }
+}
 
-    nav ul {
-        flex-direction: column;
-        gap: 10px;
+/* Remove rounded edges */
+.thumb, .thumb img {
+    border-radius: 0 !important;
+}
+
+/* Reduce gap between categories */
+.gallery-category {
+    margin-bottom: 16px;
+    column-gap: 16px;
+}
+
+/* Make images larger in masonry */
+.gallery-category {
+    column-count: 3;
+}
+@media (max-width: 1200px) {
+    .gallery-category {
+        column-count: 2;
     }
+}
+@media (max-width: 900px) {
+    .gallery-category {
+        column-count: 1;
+    }
+}
+
+/* Category headings: smaller, low-key, lighter font */
+#thumbList h2 {
+    margin-top: 18px;
+    margin-bottom: 8px;
+    font-size: 1.1rem;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    color: #666;
+    border-left: 2px solid #bbb;
+    padding-left: 8px;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+/* Japan Tower image smaller */
+.thumb.japan-tower img {
+    width: 60%;
+    margin: 0 auto;
+    display: block;
 }
