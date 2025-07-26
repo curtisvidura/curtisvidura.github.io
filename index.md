@@ -9,7 +9,7 @@ Over the course of my masters, I've made some graphene-based devices. I explain 
 
 <div style="display: flex; gap: 12px; margin: 10px 0 20px 0; width: 100%; max-width: 600px; justify-content: center; align-items: flex-start;">
   <img src="figures/devices/c02_100x.jpg" alt="Device 1" style="flex: 1 1 0; max-width: 50%; border:1px solid #ccc; height: auto;">
-  <img src="figures/devices/c04_50x.jpg" alt="Device 2" style="flex: 1 1 0; max-width: 50%; border:1px solid #ccc; height: auto;">
+  <img src="figures/devices/c04_100x.jpg" alt="Device 2" style="flex: 1 1 0; max-width: 50%; border:1px solid #ccc; height: auto;">
 </div>
 
 #### Topology
